@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "IronCore Fitness",
+    "location": "New York, NY",
+    "features": [
+      "24/7 Access",
+      "Free Weights",
+      "Group Classes",
+      "Sauna",
+      "Personal Training"
+    ],
+    "membership_price": "$49/month",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "FlexFit Gym",
+    "location": "Los Angeles, CA",
+    "features": [
+      "Cardio Equipment",
+      "Strength Machines",
+      "Yoga Classes",
+      "Nutrition Coaching",
+      "Parking Available"
+    ],
+    "membership_price": "$59/month",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Peak Performance Center",
+    "location": "Denver, CO",
+    "features": [
+      "Altitude Training",
+      "HIIT Programs",
+      "Indoor Track",
+      "Olympic Lifting Platform",
+      "Massage Therapy"
+    ],
+    "membership_price": "$75/month",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Zen Wellness Studio",
+    "location": "Austin, TX",
+    "features": [
+      "Hot Yoga",
+      "Pilates",
+      "Meditation Room",
+      "Herbal Tea Bar",
+      "Massage Services"
+    ],
+    "membership_price": "$65/month",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Titan Gym",
+    "location": "Chicago, IL",
+    "features": [
+      "Bodybuilding Equipment",
+      "Martial Arts",
+      "CrossFit Area",
+      "Locker Rooms",
+      "Supplement Store"
+    ],
+    "membership_price": "$55/month",
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "name": "FitZone Express",
+    "location": "Miami, FL",
+    "features": [
+      "Express Workouts",
+      "Virtual Classes",
+      "App Integration",
+      "Hydration Station",
+      "On-site Trainers"
+    ],
+    "membership_price": "$39/month",
+    "rating": 4.3
+  }
+]

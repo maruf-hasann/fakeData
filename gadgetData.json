@@ -1,0 +1,915 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Apple MacBook Pro 14-inch M3",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp-spaceblack-select-202310_GEO_EMEA_LANG_EN?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697311066798",
+    "category": "Laptop",
+    "price": "$1999",
+    "description": "Apple MacBook Pro 14-inch with M3 chip, 16GB RAM, and 512GB SSD for powerful performance.",
+    "Specification": [
+      "Apple M3 Chip (8-core CPU, 10-core GPU)",
+      "16GB Unified Memory",
+      "512GB SSD Storage",
+      "14.2-inch Liquid Retina XDR Display",
+      "Up to 18 hours battery life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 2,
+    "product_title": "Dell XPS 15 9530",
+    "product_image": "https://i.dell.com/sites/csimages/Merchandizing_Imagery/all/xps-15-9530-laptop-hero-504x350.png",
+    "category": "Laptop",
+    "price": "$1799",
+    "description": "Dell XPS 15 with Intel Core i7 13th Gen, 16GB RAM and NVIDIA RTX 4060 graphics.",
+    "Specification": [
+      "Intel Core i7-13700H",
+      "16GB DDR5 RAM",
+      "512GB SSD Storage",
+      "NVIDIA RTX 4060 8GB",
+      "15.6-inch OLED 3.5K Display"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 3,
+    "product_title": "HP Spectre x360 14",
+    "product_image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c08327934.png",
+    "category": "Laptop",
+    "price": "$1399",
+    "description": "Premium convertible HP Spectre with 13th Gen Intel Core i7, touch display and long battery life.",
+    "Specification": [
+      "Intel Core i7-1355U",
+      "16GB LPDDR4x RAM",
+      "1TB SSD Storage",
+      "13.5-inch OLED Touch Display",
+      "Up to 17 hours battery"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 4,
+    "product_title": "Lenovo ThinkPad X1 Carbon Gen 11",
+    "product_image": "https://p4-ofp.static.pub/fes/cms/2023/10/10/tiol6i4g4o26x97z7bkk8cqnboc79u155800.png",
+    "category": "Laptop",
+    "price": "$1649",
+    "description": "Lightweight business ultrabook with 13th Gen Intel processor, ThinkShield security, and carbon fiber build.",
+    "Specification": [
+      "Intel Core i7-1365U vPro",
+      "16GB LPDDR5 RAM",
+      "512GB SSD Storage",
+      "14-inch WUXGA IPS Display",
+      "Dolby Atmos speakers"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 5,
+    "product_title": "Asus ROG Zephyrus G14",
+    "product_image": "https://dlcdnwebimgs.asus.com/files/media/628fb2d0-3768-44ee-b78f-7c7b0db828b7/v1/images/kv.png",
+    "category": "Laptop",
+    "price": "$1599",
+    "description": "Gaming laptop with AMD Ryzen 9 and NVIDIA RTX 4060. Ultra-portable with powerful graphics.",
+    "Specification": [
+      "AMD Ryzen 9 7940HS",
+      "16GB DDR5 RAM",
+      "1TB SSD Storage",
+      "14-inch QHD+ 165Hz Display",
+      "NVIDIA RTX 4060 8GB"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 6,
+    "product_title": "Microsoft Surface Laptop 5",
+    "product_image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Surface-Laptop-5-Platinum-S01-1:VP2-859x540",
+    "category": "Laptop",
+    "price": "$1299",
+    "description": "Sleek and lightweight with 12th Gen Intel i5, touchscreen display and exceptional build quality.",
+    "Specification": [
+      "Intel Core i5-1235U",
+      "16GB LPDDR5 RAM",
+      "512GB SSD Storage",
+      "13.5-inch PixelSense Touch Display",
+      "Alcantara Keyboard Option"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 7,
+    "product_title": "Acer Predator Helios 16",
+    "product_image": "https://static.acer.com/up/Resource/Acer/Gaming/Predator_Helios_16/Images/20230104/Predator-Helios-16_PH16-71_Standard_01.png",
+    "category": "Laptop",
+    "price": "$1799",
+    "description": "High-end gaming laptop with RTX 4070 graphics, 16-inch 240Hz display, and superior cooling.",
+    "Specification": [
+      "Intel Core i9-13900HX",
+      "32GB DDR5 RAM",
+      "1TB SSD Storage",
+      "16-inch WQXGA 240Hz Display",
+      "NVIDIA RTX 4070 8GB"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 8,
+    "product_title": "MSI Stealth 14 Studio",
+    "product_image": "https://asset.msi.com/resize/image/global/product/product_16847210520b3f7310d024bc14b4517b57f83fb4f.png62405b38c58fe0f07fcef2367d8a9c7a/600.png",
+    "category": "Laptop",
+    "price": "$1499",
+    "description": "Thin and light gaming/creator laptop with NVIDIA RTX 4060 and QHD display.",
+    "Specification": [
+      "Intel Core i7-13700H",
+      "16GB DDR5 RAM",
+      "1TB SSD Storage",
+      "14-inch QHD+ 240Hz Display",
+      "NVIDIA RTX 4060 8GB"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 9,
+    "product_title": "Samsung Galaxy Book4 Pro",
+    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/de/np940xgk-kc1de/gallery/de-galaxy-book4-pro-14inch-np940xgk-kc1de-539654131?$650_519_PNG$",
+    "category": "Laptop",
+    "price": "$1599",
+    "description": "Ultra-slim laptop with Intel Core Ultra processor, AMOLED display, and premium build.",
+    "Specification": [
+      "Intel Core Ultra 7 155H",
+      "16GB LPDDR5 RAM",
+      "512GB SSD Storage",
+      "14-inch 3K AMOLED Display",
+      "Dolby Atmos Audio"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },{
+    "product_id": 78329,
+    "product_title": "iPhone 15 Pro Max",
+    "product_image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-max-natural-titanium-select?wid=940&hei=1112&fmt=png-alpha&.v=1692923980661",
+    "category": "Smartphone",
+    "price": "$1199",
+    "description": "Apple iPhone 15 Pro Max with A17 Pro chip, Titanium build, and advanced camera system.",
+    "Specification": [
+      "6.7-inch Super Retina XDR Display",
+      "A17 Pro Chip",
+      "Triple 48MP Camera System",
+      "USB-C Port",
+      "Titanium Design"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 19284,
+    "product_title": "Samsung Galaxy S24 Ultra",
+    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/levant/2401/gallery/levant-galaxy-s24-ultra-sm-s928bzkgmea-thumb-539103053",
+    "category": "Smartphone",
+    "price": "$1299",
+    "description": "Samsung Galaxy S24 Ultra with Snapdragon 8 Gen 3, 200MP main camera, and S-Pen.",
+    "Specification": [
+      "6.8-inch QHD+ AMOLED 120Hz",
+      "Snapdragon 8 Gen 3",
+      "200MP + 12MP + 10MP + 50MP Cameras",
+      "12GB RAM, 256GB Storage",
+      "Built-in S Pen"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 52813,
+    "product_title": "Google Pixel 8 Pro",
+    "product_image": "https://store.google.com/us/product/images/pixel_8_pro_wob_hero.png",
+    "category": "Smartphone",
+    "price": "$999",
+    "description": "Google Pixel 8 Pro with Tensor G3 chip, 120Hz LTPO OLED, and pro-level cameras.",
+    "Specification": [
+      "6.7-inch LTPO OLED Display",
+      "Google Tensor G3",
+      "50MP + 48MP + 48MP Cameras",
+      "12GB RAM, 256GB Storage",
+      "Android 14"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 86420,
+    "product_title": "OnePlus 12",
+    "product_image": "https://image01.oneplus.net/ebp/202401/05/1-m00-41-7a-cpgmaktszetab8uyaaujlguw-s4263.png",
+    "category": "Smartphone",
+    "price": "$799",
+    "description": "OnePlus 12 with Snapdragon 8 Gen 3, 2K AMOLED, and 5400mAh large battery.",
+    "Specification": [
+      "6.82-inch 2K AMOLED 120Hz",
+      "Snapdragon 8 Gen 3",
+      "50MP + 64MP + 48MP Cameras",
+      "12GB RAM, 256GB Storage",
+      "5400mAh Battery, 100W Charging"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 30956,
+    "product_title": "Xiaomi 14 Ultra",
+    "product_image": "https://i01.appmifile.com/webfile/globalimg/products/pc/xiaomi-14-ultra/specs-img01.png",
+    "category": "Smartphone",
+    "price": "$999",
+    "description": "Xiaomi 14 Ultra featuring Leica-tuned cameras, Snapdragon 8 Gen 3, and curved AMOLED display.",
+    "Specification": [
+      "6.73-inch AMOLED 120Hz Display",
+      "Snapdragon 8 Gen 3",
+      "50MP Quad Cameras with Leica Optics",
+      "16GB RAM, 512GB Storage",
+      "5300mAh Battery, 90W Fast Charging"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 67942,
+    "product_title": "Realme GT 6",
+    "product_image": "https://fdn2.gsmarena.com/vv/pics/realme/realme-gt-6-1.jpg",
+    "category": "Smartphone",
+    "price": "$699",
+    "description": "Realme GT 6 with powerful Snapdragon chipset and AMOLED display, budget flagship.",
+    "Specification": [
+      "6.78-inch AMOLED 120Hz Display",
+      "Snapdragon 8s Gen 3",
+      "50MP Main Camera + 8MP + 2MP",
+      "12GB RAM, 256GB Storage",
+      "5500mAh Battery, 120W Fast Charging"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 45871,
+    "product_title": "Nothing Phone (2)",
+    "product_image": "https://nothing.tech/cdn/shop/products/1_69a38c4f-3f55-4682-b4e7-40aaacb5e63c.png",
+    "category": "Smartphone",
+    "price": "$699",
+    "description": "Unique transparent design, Nothing OS 2.0, and powerful Snapdragon 8+ Gen 1 processor.",
+    "Specification": [
+      "6.7-inch OLED 120Hz Display",
+      "Snapdragon 8+ Gen 1",
+      "50MP + 50MP Dual Cameras",
+      "12GB RAM, 256GB Storage",
+      "Glyph Interface, Android 14"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 91032,
+    "product_title": "Motorola Edge 50 Ultra",
+    "product_image": "https://fdn2.gsmarena.com/vv/pics/motorola/motorola-edge-50-ultra-1.jpg",
+    "category": "Smartphone",
+    "price": "$899",
+    "description": "Premium Motorola flagship with vegan leather finish, 144Hz display, and Snapdragon 8s Gen 3.",
+    "Specification": [
+      "6.7-inch pOLED 144Hz Display",
+      "Snapdragon 8s Gen 3",
+      "50MP + 64MP + 50MP Cameras",
+      "16GB RAM, 1TB Storage",
+      "4500mAh Battery, 125W Charging"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 27584,
+    "product_title": "Asus ROG Phone 8 Pro",
+    "product_image": "https://dlcdnwebimgs.asus.com/gain/7bb08657-fae6-4466-8c73-04b6d5189c47/",
+    "category": "Smartphone",
+    "price": "$1199",
+    "description": "Ultimate gaming phone with Snapdragon 8 Gen 3, cooling system, and AMOLED display.",
+    "Specification": [
+      "6.78-inch AMOLED 165Hz Display",
+      "Snapdragon 8 Gen 3",
+      "50MP + 13MP + 32MP Cameras",
+      "24GB RAM, 1TB Storage",
+      "6000mAh Battery, 65W Charging"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },{
+    "product_id": 58321,
+    "product_title": "Apple AirPods Pro (2nd Gen)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2nd-gen-2023?wid=940&hei=1112&fmt=png-alpha&.v=1694014871982",
+    "category": "Accessories",
+    "price": "$249",
+    "description": "Noise-cancelling wireless earbuds with MagSafe charging case, Adaptive Audio, and Transparency mode.",
+    "Specification": [
+      "Active Noise Cancellation",
+      "Personalized Spatial Audio",
+      "USB-C Charging Case",
+      "Up to 6 hours listening time",
+      "IPX4 Sweat and Water Resistant"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 10475,
+    "product_title": "Samsung Galaxy Watch 6",
+    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/levant/2307/gallery/levant-galaxy-watch6-r935-469844-sm-r935fzdamea-thumb-538841049",
+    "category": "Accessories",
+    "price": "$329",
+    "description": "Premium smartwatch with AMOLED display, body composition tracking, and Galaxy ecosystem integration.",
+    "Specification": [
+      "1.5-inch Super AMOLED Display",
+      "BioActive Sensor (Heart Rate, ECG, Body Composition)",
+      "Sapphire Crystal Glass",
+      "IP68 Water Resistance",
+      "Wear OS Powered by Samsung"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 94712,
+    "product_title": "Anker PowerCore 20K",
+    "product_image": "https://cdn.anker.com/product-assets/images/2023/10/PowerCore_Essential_20000_PD_Black/PD_BK__PD20K_img06.jpg",
+    "category": "Accessories",
+    "price": "$59",
+    "description": "High-capacity portable power bank with USB-C Power Delivery for fast charging phones and tablets.",
+    "Specification": [
+      "20,000mAh Capacity",
+      "USB-C 20W PD Input & Output",
+      "2x USB-A Ports",
+      "MultiProtect Safety System",
+      "Universal Compatibility"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 57283,
+    "product_title": "Logitech MX Master 3S",
+    "product_image": "https://resource.logitech.com/w_800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-top-view-graphite.png?v=1",
+    "category": "Accessories",
+    "price": "$99",
+    "description": "Ergonomic wireless mouse with ultra-quiet clicks, MagSpeed scrolling, and customizable buttons.",
+    "Specification": [
+      "Silent Clicks",
+      "MagSpeed Electromagnetic Scroll Wheel",
+      "4000 DPI Sensor (Works on Glass)",
+      "Multi-Device Connectivity (USB + Bluetooth)",
+      "USB-C Fast Charging"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 81546,
+    "product_title": "Sony WH-1000XM5",
+    "product_image": "https://m.media-amazon.com/images/I/61UNi3rkDdL._AC_SX679_.jpg",
+    "category": "Accessories",
+    "price": "$399",
+    "description": "Industry-leading wireless noise cancelling headphones with superior call quality and 30-hour battery.",
+    "Specification": [
+      "Active Noise Cancellation",
+      "Multiple Microphones for Calls",
+      "Multipoint Connection",
+      "Foldable Lightweight Design",
+      "30 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 66201,
+    "product_title": "JBL Flip 6 Bluetooth Speaker",
+    "product_image": "https://www.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw41a3963e/1.JBL_Flip6_Hero_Black.png",
+    "category": "Accessories",
+    "price": "$129",
+    "description": "Portable waterproof Bluetooth speaker with powerful bass and JBL signature sound.",
+    "Specification": [
+      "IP67 Waterproof and Dustproof",
+      "12 Hours of Playtime",
+      "Bluetooth 5.1 Connectivity",
+      "PartyBoost for Multiple Speaker Pairing",
+      "USB-C Charging"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 23849,
+    "product_title": "Ugreen USB-C Hub (9-in-1)",
+    "product_image": "https://cdn.ugreen.com/cdn/shop/products/UGREEN_USB_C_Hub_9-in-1_Adapter.jpg",
+    "category": "Accessories",
+    "price": "$49",
+    "description": "Multi-functional USB-C hub with HDMI, Ethernet, SD card, USB 3.0, and PD charging support.",
+    "Specification": [
+      "4K@60Hz HDMI Port",
+      "Gigabit Ethernet",
+      "2x USB 3.0 + 2x USB 2.0",
+      "SD & microSD Slots",
+      "100W USB-C PD Pass-Through Charging"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 90532,
+    "product_title": "Google Chromecast with Google TV (HD)",
+    "product_image": "https://store.google.com/product/images/chromecast_with_google_tv_hd_white_front.png",
+    "category": "Accessories",
+    "price": "$29",
+    "description": "Affordable HD streaming device with Google TV interface, voice remote, and smart home integration.",
+    "Specification": [
+      "Supports up to 1080p HDR Streaming",
+      "Voice Remote with Google Assistant",
+      "Built-in Chromecast Support",
+      "HDMI Connection",
+      "Compact Design"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 37166,
+    "product_title": "Belkin 3-in-1 Wireless Charger (MagSafe)",
+    "product_image": "https://www.belkin.com/on/demandware.static/-/Sites-master-catalog/default/dwfa7e5c48/images/belkin/p/p-wiz009/p-wiz009-3.jpg",
+    "category": "Accessories",
+    "price": "$149",
+    "description": "Premium 3-in-1 wireless charging stand for iPhone, Apple Watch, and AirPods with MagSafe compatibility.",
+    "Specification": [
+      "15W MagSafe Wireless Charging",
+      "Dedicated Apple Watch Charger",
+      "Qi Pad for AirPods",
+      "LED Charging Indicators",
+      "Modern Stainless Steel Finish"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },{
+    "product_id": 83425,
+    "product_title": "Apple Watch Series 9",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MRX43_VW_34FR+watch-case-45-aluminum-starlight-nc-s9_VW_34FR+watch-face-45-starlight-aluminum-s9_VW_34FR_WF_CO_GEO_EMEA?wid=1200&hei=1200&fmt=jpeg&qlt=90&.v=1693180281995",
+    "category": "Smartwatch",
+    "price": "$399",
+    "description": "Latest Apple Watch with S9 chip, advanced health tracking, and double tap gesture control.",
+    "Specification": [
+      "S9 SiP with 4-core Neural Engine",
+      "Always-On Retina Display",
+      "Temperature Sensor, ECG, Blood Oxygen",
+      "Up to 18 Hours Battery Life",
+      "IP6X Dust Resistance, WR50 Water Resistant"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 56914,
+    "product_title": "Samsung Galaxy Watch 6 Classic",
+    "product_image": "https://images.samsung.com/is/image/samsung/p6pim/levant/2307/gallery/levant-galaxy-watch6-classic-r945-sm-r945fzwaeua-537451716?$650_519_PNG$",
+    "category": "Smartwatch",
+    "price": "$449",
+    "description": "Premium smartwatch with rotating bezel, advanced fitness features, and sapphire crystal glass.",
+    "Specification": [
+      "1.5-inch Super AMOLED Display",
+      "Rotating Bezel Navigation",
+      "ECG, Body Composition, Sleep Tracking",
+      "Sapphire Crystal Glass",
+      "IP68, 5ATM Water Resistant"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 75308,
+    "product_title": "Google Pixel Watch 2",
+    "product_image": "https://store.google.com/us/product/images/pixel_watch2_wob_hero.png",
+    "category": "Smartwatch",
+    "price": "$349",
+    "description": "Minimalist smartwatch with Fitbit integration, advanced sensors, and sleek domed glass design.",
+    "Specification": [
+      "1.2-inch AMOLED Display",
+      "Wear OS by Google",
+      "Continuous Heart Rate, SpO2, Stress Management",
+      "Aluminum Body with Gorilla Glass 5",
+      "Up to 24 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 20283,
+    "product_title": "Garmin Venu 3",
+    "product_image": "https://static.garmincdn.com/en/products/010-02784-00/v/cf-lg-8e020764-3ac3-4b3b-90db-7496ea2fddbb.png",
+    "category": "Smartwatch",
+    "price": "$449",
+    "description": "Advanced GPS smartwatch with AMOLED display, fitness and sleep tracking, and long battery life.",
+    "Specification": [
+      "1.4-inch AMOLED Display",
+      "GPS + GLONASS + Galileo",
+      "VO2 Max, Stress, Sleep Tracking",
+      "Speaker & Microphone for Calls",
+      "Up to 14 Days Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 63190,
+    "product_title": "Amazfit GTR 4",
+    "product_image": "https://static.amazfit.com/storage/wysiwyg/amazfitgtr4/page/pc-img-product.png",
+    "category": "Smartwatch",
+    "price": "$199",
+    "description": "Stylish smartwatch with GPS, fitness tracking, Bluetooth calling, and 14-day battery life.",
+    "Specification": [
+      "1.43-inch AMOLED Display",
+      "Dual-Band GPS with 150+ Sports Modes",
+      "Alexa Built-in, Bluetooth Calling",
+      "BioTracker 4.0 PPG Sensor",
+      "5 ATM Water Resistant"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 48752,
+    "product_title": "Fossil Gen 6 Smartwatch",
+    "product_image": "https://cdn.fossil.com/products/ZB7718994_main_image.png",
+    "category": "Smartwatch",
+    "price": "$299",
+    "description": "Classic styled smartwatch with Wear OS, customizable watch faces, and fast charging.",
+    "Specification": [
+      "1.28-inch AMOLED Display",
+      "Qualcomm Snapdragon Wear 4100+",
+      "SpO2, Sleep, and Heart Rate Tracking",
+      "Fast Charging: 80% in 30 minutes",
+      "Stainless Steel Build"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": 98541,
+    "product_title": "Fitbit Versa 4",
+    "product_image": "https://static.fitbit.com/simple.b-cssdisabled-png.h156879cb3e3ccdc1ba62b9eb18ec4d0f.pack?items=%2Fcontent%2Fassets%2Fmain%2Fimages%2Fdevices%2Fversa4%2Fversa4-hero-3qtr.png",
+    "category": "Smartwatch",
+    "price": "$199",
+    "description": "Lightweight smartwatch with daily readiness score, 6+ days battery, and 24/7 heart rate tracking.",
+    "Specification": [
+      "1.58-inch AMOLED Display",
+      "Built-in GPS",
+      "Daily Readiness Score, Active Zone Minutes",
+      "Google Maps & Wallet Integration",
+      "6+ Days Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 11437,
+    "product_title": "Huawei Watch GT 4",
+    "product_image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-gt4-46mm/img/kv/46mm-black.png",
+    "category": "Smartwatch",
+    "price": "$299",
+    "description": "Elegant design with AMOLED display, advanced fitness features, and up to 14 days battery life.",
+    "Specification": [
+      "1.43-inch AMOLED Display",
+      "Heart Rate, SpO2, Sleep, Stress Tracking",
+      "Bluetooth Calling",
+      "GNSS for Outdoor Tracking",
+      "5 ATM Water Resistant"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 31672,
+    "product_title": "Noise ColorFit Ultra 3",
+    "product_image": "https://cdn.shopify.com/s/files/1/0272/0409/0811/products/Ultra3ProductPageHeroImage.png",
+    "category": "Smartwatch",
+    "price": "$89",
+    "description": "Budget smartwatch with AMOLED display, BT calling, 100+ watch faces, and fitness tracking.",
+    "Specification": [
+      "1.96-inch AMOLED Display",
+      "Bluetooth Calling Support",
+      "120+ Sports Modes",
+      "Heart Rate & SpO2 Sensor",
+      "IP68 Water Resistant"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },{
+    "product_id": 41726,
+    "product_title": "MacBook Air 13-inch (M3, 2024)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-spacegray-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1707348507057",
+    "category": "Laptop",
+    "price": "$1099",
+    "description": "Supercharged by the M3 chip. Stunning Liquid Retina display. All-day battery life.",
+    "Specification": [
+      "Apple M3 Chip (8-core CPU, 10-core GPU)",
+      "8GB Unified Memory",
+      "256GB SSD Storage",
+      "13.6-inch Liquid Retina Display",
+      "Up to 18 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 59413,
+    "product_title": "MacBook Air 15-inch (M2, 2023)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-15-midnight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1707348507819",
+    "category": "Laptop",
+    "price": "$1299",
+    "description": "A large 15-inch display, incredibly thin design, and supercharged by the M2 chip.",
+    "Specification": [
+      "Apple M2 Chip (8-core CPU, 10-core GPU)",
+      "8GB Unified Memory",
+      "512GB SSD Storage",
+      "15.3-inch Liquid Retina Display",
+      "Up to 18 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 83122,
+    "product_title": "MacBook Pro 14-inch (M3 Pro, 2023)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp14-spaceblack-select-202310?wid=1808&hei=1680&fmt=jpeg&qlt=90&.v=1697311054290",
+    "category": "Laptop",
+    "price": "$1999",
+    "description": "Built for pros. Blazing-fast M3 Pro chip, XDR display, and all the power you need.",
+    "Specification": [
+      "Apple M3 Pro Chip (11-core CPU, 14-core GPU)",
+      "18GB Unified Memory",
+      "512GB SSD Storage",
+      "14.2-inch Liquid Retina XDR Display",
+      "Up to 18 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 78365,
+    "product_title": "MacBook Pro 16-inch (M3 Max, 2023)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spaceblack-select-202310?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1697311067288",
+    "category": "Laptop",
+    "price": "$3499",
+    "description": "The most powerful MacBook ever. Designed for extreme workflows with unmatched display technology.",
+    "Specification": [
+      "Apple M3 Max Chip (14-core CPU, 30-core GPU)",
+      "36GB Unified Memory",
+      "1TB SSD Storage",
+      "16.2-inch Liquid Retina XDR Display",
+      "Up to 22 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 5.0
+  },
+  {
+    "product_id": 23691,
+    "product_title": "MacBook Pro 13-inch (M2, 2022)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp13-spacegray-select-202206?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1653493200207",
+    "category": "Laptop",
+    "price": "$1299",
+    "description": "Compact yet powerful with the M2 chip. Features the iconic Touch Bar and all-day battery life.",
+    "Specification": [
+      "Apple M2 Chip (8-core CPU, 10-core GPU)",
+      "8GB Unified Memory",
+      "256GB SSD Storage",
+      "13.3-inch Retina Display",
+      "Up to 20 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 94210,
+    "product_title": "MacBook Air 13-inch (M2, 2022)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-midnight-gallery1-20220606?wid=2000&hei=1536&fmt=jpeg&qlt=90&.v=1654122880566",
+    "category": "Laptop",
+    "price": "$999",
+    "description": "Powerful. Affordable. Ultra-lightweight. The perfect entry MacBook with an M2 chip.",
+    "Specification": [
+      "Apple M2 Chip (8-core CPU, 8-core GPU)",
+      "8GB Unified Memory",
+      "256GB SSD Storage",
+      "13.6-inch Liquid Retina Display",
+      "Up to 18 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 56300,
+    "product_title": "MacBook Pro 14-inch (M2 Pro, 2023)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp14-silver-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1670880992738",
+    "category": "Laptop",
+    "price": "$1999",
+    "description": "MacBook Pro with M2 Pro chip, stunning XDR display, and superb battery life for professional workflows.",
+    "Specification": [
+      "Apple M2 Pro Chip (10-core CPU, 16-core GPU)",
+      "16GB Unified Memory",
+      "512GB SSD Storage",
+      "14.2-inch Liquid Retina XDR Display",
+      "Up to 18 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 31574,
+    "product_title": "MacBook Pro 16-inch (M2 Max, 2023)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spacegray-select-202301?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1670448002200",
+    "category": "Laptop",
+    "price": "$3499",
+    "description": "Professional’s choice for graphics-intensive work. Immense power, beautiful XDR display, all-day battery.",
+    "Specification": [
+      "Apple M2 Max Chip (12-core CPU, 38-core GPU)",
+      "32GB Unified Memory",
+      "1TB SSD Storage",
+      "16.2-inch Liquid Retina XDR Display",
+      "Up to 22 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 70492,
+    "product_title": "MacBook Air 15-inch (M3, 2024)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-15-midnight-select-202402?wid=904&hei=840&fmt=jpeg&qlt=90&.v=1707348507819",
+    "category": "Laptop",
+    "price": "$1299",
+    "description": "Big, beautiful display. Powered by M3. MacBook Air has never been this big or this powerful.",
+    "Specification": [
+      "Apple M3 Chip (8-core CPU, 10-core GPU)",
+      "8GB Unified Memory",
+      "512GB SSD Storage",
+      "15.3-inch Liquid Retina Display",
+      "Up to 18 Hours Battery Life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },{
+    "product_id": 53192,
+    "product_title": "iPhone 15 Pro Max",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-model-unselect-gallery-1-202309?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1693010533856",
+    "category": "Phone",
+    "price": "$1199",
+    "description": "Apple's most advanced iPhone with a titanium design, A17 Pro chip, and incredible camera system.",
+    "Specification": [
+      "6.7-inch Super Retina XDR Display (ProMotion)",
+      "A17 Pro Chip",
+      "48MP Main Camera + 5x Telephoto",
+      "USB-C Charging",
+      "Up to 29 hours Video Playback"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 82463,
+    "product_title": "iPhone 15 Pro",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-pro-model-unselect-gallery-2-202309?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1693010535643",
+    "category": "Phone",
+    "price": "$999",
+    "description": "Lightweight titanium design. A17 Pro chip. Pro-level camera system. USB-C powered.",
+    "Specification": [
+      "6.1-inch Super Retina XDR Display (ProMotion)",
+      "A17 Pro Chip",
+      "48MP Main Camera + Telephoto",
+      "USB-C Charging",
+      "Up to 23 hours Video Playback"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": 23781,
+    "product_title": "iPhone 15 Plus",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-finish-select-202309-6-7inch-blue?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1692924222837",
+    "category": "Phone",
+    "price": "$899",
+    "description": "Larger display. Dynamic Island. All-new 48MP camera with 2x Telephoto. USB-C charging.",
+    "Specification": [
+      "6.7-inch Super Retina XDR Display",
+      "A16 Bionic Chip",
+      "48MP Main Camera + 2x Telephoto",
+      "USB-C Charging",
+      "Up to 26 hours Video Playback"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 46109,
+    "product_title": "iPhone 15",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-15-finish-select-202309-6-1inch-pink?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1692924222251",
+    "category": "Phone",
+    "price": "$799",
+    "description": "The everyday iPhone gets the Dynamic Island, USB-C, and an upgraded 48MP main camera.",
+    "Specification": [
+      "6.1-inch Super Retina XDR Display",
+      "A16 Bionic Chip",
+      "48MP Main Camera",
+      "USB-C Charging",
+      "Up to 20 hours Video Playback"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 61752,
+    "product_title": "iPhone 14 Pro Max",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-max-model-unselect-gallery-2-202209_GEO_US?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1660680618734",
+    "category": "Phone",
+    "price": "$1099",
+    "description": "Previous-gen Pro Max with Dynamic Island, Always-On display, and Pro camera system.",
+    "Specification": [
+      "6.7-inch Super Retina XDR Display (ProMotion)",
+      "A16 Bionic Chip",
+      "48MP Main Camera",
+      "Lightning Charging",
+      "Up to 29 hours Video Playback"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 39461,
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-pro-model-unselect-gallery-2-202209_GEO_US?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1660680618735",
+    "category": "Phone",
+    "price": "$999",
+    "description": "Dynamic Island and Always-On display meet advanced cameras in this powerful Pro model.",
+    "Specification": [
+      "6.1-inch Super Retina XDR Display (ProMotion)",
+      "A16 Bionic Chip",
+      "48MP Main Camera",
+      "Lightning Charging",
+      "Up to 23 hours Video Playback"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": 74583,
+    "product_title": "iPhone 14 Plus",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-plus-model-unselect-gallery-2-202209_GEO_US?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1660680618734",
+    "category": "Phone",
+    "price": "$899",
+    "description": "Bigger display. Great battery. Powerful A15 Bionic chip. Perfect for those who love larger phones.",
+    "Specification": [
+      "6.7-inch Super Retina XDR Display",
+      "A15 Bionic Chip",
+      "12MP Main Camera",
+      "Lightning Charging",
+      "Up to 26 hours Video Playback"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 58216,
+    "product_title": "iPhone 14",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-14-finish-select-202209-6-1inch-blue?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1662156316972",
+    "category": "Phone",
+    "price": "$799",
+    "description": "The classic iPhone 14, offering amazing camera improvements and solid battery life.",
+    "Specification": [
+      "6.1-inch Super Retina XDR Display",
+      "A15 Bionic Chip",
+      "12MP Main Camera",
+      "Lightning Charging",
+      "Up to 20 hours Video Playback"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 19674,
+    "product_title": "iPhone SE (3rd Gen, 2022)",
+    "product_image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone-se-finish-select-202207-202207?wid=5120&hei=2880&fmt=jpeg&qlt=80&.v=1654888899381",
+    "category": "Phone",
+    "price": "$429",
+    "description": "Compact, powerful, affordable. Classic design powered by A15 Bionic with 5G capability.",
+    "Specification": [
+      "4.7-inch Retina HD Display",
+      "A15 Bionic Chip",
+      "12MP Single Camera",
+      "Lightning Charging",
+      "Up to 15 hours Video Playback"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]
